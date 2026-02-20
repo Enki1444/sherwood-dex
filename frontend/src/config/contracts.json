@@ -1,0 +1,12 @@
+{
+  "chainId": 46630,
+  "chainName": "Robinhood Chain Testnet",
+  "rpcUrl": "https://rpc.testnet.chain.robinhood.com",
+  "blockExplorer": "https://explorer.testnet.chain.robinhood.com",
+  "contracts": {
+    "WETH": "0x0000000000000000000000000000000000000001",
+    "SherwoodFactory": "0x0000000000000000000000000000000000000002",
+    "SherwoodRouter02": "0x0000000000000000000000000000000000000003",
+    "TREES": "0x0000000000000000000000000000000000000004"
+  }
+}
